@@ -8,4 +8,7 @@
 	   <project path="vendor/samsung/a32" name="a32-bringup/vendor_samsung_a32" remote="github" revision="lineage-23.2-A325F"/>
      
      <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="A325F/android_prebuilts_clang_host_linux-x86_clang-6443078" remote="github" revision="10.0"/>
+     
+     <!--Bholte-->
+     <project path="packages/apps/PhhIms" name="a32-bringup/packages_apps_PhhIms" remote="github" revision="main" sync-s="true"/>
 </manifest>
